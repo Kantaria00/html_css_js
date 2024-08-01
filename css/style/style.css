@@ -1,0 +1,18 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    color: aqua;
+    border: darkolivegreen;
+    padding: 50px;
+    margin: 100px;
+    font-size: large;
+    font-weight: 100;
+}
+.colorTitle {
+    color: brown;
+    font-family: "Cambria Math", serif;
+}
+#Title1 {
+    background-color: aliceblue;
+}
